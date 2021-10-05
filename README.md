@@ -26,6 +26,7 @@
 ## <a name="feedback" /> Связь с преподавателями
 * [Telegram-канал](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), в котором будут появляться все важные новости
 * Обратная связь - по почте mlcoursemm@gmail.com
+* [Telegram-bot](https://t.me/ml2021sharebot) для отправки домашних заданий
 * Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/ml2021autumn/issues) :)
 ## <a name="marks" /> Результаты выполнения заданий
 * [Итоговая таблица с результатами](https://docs.google.com/spreadsheets/d/1YKxMMr-FvLnmN_BBigXoxGQye55lmmv7edD_NfNiC8E/edit?usp=sharing)
