@@ -10,7 +10,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
-* (2021-10-05) Выложена первая лекция([вводная часть](https://github.com/mlcoursemm/ml2021autumn/blob/main/lectures/lecture01-intro.pdf), [историческая справка](https://github.com/mlcoursemm/ml2021autumn/blob/main/lectures/lecture01-history_ml_task.pdf), [кросс-валидация и дилемма смещения-разброса](https://github.com/mlcoursemm/ml2021autumn/blob/main/lectures/lecture01-crossval_bv.pdf)), первый [семинар](https://github.com/mlcoursemm/ml2021autumn/blob/main/seminars/seminar01-cv.pdf), а также [код](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar01-cv.ipynb) к нему
+* (2021-10-05) Выложена первая лекция([вводная часть](https://github.com/mlcoursemm/ml2021autumn/blob/main/lectures/lecture01-intro.pdf), [историческая справка](https://github.com/mlcoursemm/ml2021autumn/blob/main/lectures/lecture01-history_ml_task.pdf), [кросс-валидация и дилемма смещения-разброса](https://github.com/mlcoursemm/ml2021autumn/blob/main/lectures/lecture01-crossval_bv.pdf)), первый [семинар](https://github.com/mlcoursemm/ml2021autumn/blob/main/seminars/seminar01-cv.pdf), а также [код](https://github.com/mlcoursemm/ml2021autumn/blob/main/seminars/seminar01-cv.ipynb) к нему
 * (2021-10-03) Создан данный репозиторий
 * Первое лекционное занятие состоится во вторник, 5 октября, в 16:45 онлайн в Zoom (ссылка будем разослана в соотв. канале)
 * Первое семинарское занятие состоится во вторник, 5 октября, в 18:00 онлайн в Zoom (ссылка будем разослана в соотв. канале)
