@@ -24,7 +24,7 @@
 ## <a name="ww" /> Время и место 
 Курс читается по вторникам в 16:45 (теория) и 18:00 (практика) онлайн в Zoom. 
 ## <a name="feedback" /> Связь с преподавателями
-* [Telegram-канал](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), в котором будут появляться все важные новости
+* [Telegram-канал](https://t.me/joinchat/RSbHl7Mnd_Q6M7FM), в котором будут появляться все важные новости
 * Обратная связь - по почте mlcoursemm@gmail.com
 * [Telegram-bot](https://t.me/ml2021sharebot) для отправки домашних заданий
 * Ну и всегда можно написать в [issues](https://github.com/mlcoursemm/ml2021autumn/issues) :)
