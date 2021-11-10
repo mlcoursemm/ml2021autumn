@@ -11,7 +11,7 @@
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
 
-* (2021-11-09) Доступно новое домашнее задание. Для его получения необходимо зарегистрироваться в [Telegram-bot-е](https://t.me/ml2021sharebot) и выполнить команду /get seminar05. Для сдачи задания необходимо отправить файл, заполнив поле caption - seminar05.
+* (2021-11-09) Доступно новое домашнее задание. Для его получения необходимо зарегистрироваться в [Telegram-bot-е](https://t.me/ml2021sharebot) и выполнить команду /get seminar05. Для сдачи задания необходимо отправить файл, заполнив поле caption - seminar05. Срок сдачи задачи без штрафов до 15.11.2021 23:59:59.
 * (2021-10-26) Запущено первое [соревнование](https://www.kaggle.com/t/18d841b14168480eb305fa9444b46dce) по машинному обучению
 * (2021-10-07) Доступно первое домашнее задание. Для его получения необходимо зарегистрироваться в [Telegram-bot-е](https://t.me/ml2021sharebot) и выполнить команду /get seminar01. Для сдачи задания необходимо отправить файл, заполнив поле caption - seminar01. Срок сдачи задачи без штрафов до 12.10.2021.
 * (2021-10-05) Выложена первая лекция([вводная часть](https://github.com/mlcoursemm/ml2021autumn/blob/main/lectures/lecture01-intro.pdf), [историческая справка](https://github.com/mlcoursemm/ml2021autumn/blob/main/lectures/lecture01-history_ml_task.pdf), [кросс-валидация и дилемма смещения-разброса](https://github.com/mlcoursemm/ml2021autumn/blob/main/lectures/lecture01-crossval_bv.pdf)), первый [семинар](https://github.com/mlcoursemm/ml2021autumn/blob/main/seminars/seminar01-cv.pdf), а также [код](https://github.com/mlcoursemm/ml2021autumn/blob/main/seminars/seminar01-cv.ipynb) к нему
